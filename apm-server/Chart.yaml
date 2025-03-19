@@ -5,7 +5,7 @@ maintainers:
 - email: helm-charts@elastic.co
   name: Elastic
 name: apm-server
-version: 7.6.2
+version: 7.6.2-pdb-fix
 appVersion: 7.6.2
 sources:
   - https://github.com/elastic/apm
