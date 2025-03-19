@@ -15,6 +15,6 @@ entries:
     sources:
     - https://github.com/elastic/elasticsearch
     urls:
-    - https://raw.githubusercontent.com/mikhaillopandia/helm-charts/7.6.2-pdb-fix/charts/elasticsearch-7.6.2.tgz
+    - https://raw.githubusercontent.com/mikhaillopandia/helm-charts/7.6.2-pdb-fix/elasticsearch/charts/elasticsearch-7.6.2.tgz
     version: 7.6.2
 generated: "2025-03-19T15:04:17.10486+02:00"
